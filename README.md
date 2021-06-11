@@ -19,11 +19,11 @@
     </p>
     <hr>
 
-<h3>📫 How to reach me:</h3>
+<h4>📫 How to reach me:</h4>
  
 - <a href="mailto:danielonoja246@gmail.com" target="_blank">Email</a>
 - <a href="https://www.linkedin.com/in/daniel-onoja-044a611b3/" target="_blank">Linkedin</a>
-- <a href="twitter.com/onojaDaniel20" target="_blank">Twitter</a>
+- <a href="https://www.twitter.com/onojaDaniel20" target="_blank">Twitter</a>
 
 <br>
 
